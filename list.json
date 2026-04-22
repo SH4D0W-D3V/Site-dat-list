@@ -1,0 +1,16 @@
+{
+    "last_updated": "2026-04-21",
+    "categories": ["Productivity", "Social", "AI", "Design"],
+    "tools": [
+        {
+        "id": "chatgpt_01",
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com",
+        "category": "AI",
+        "icon_url": "https://your-icon-source.com/chatgpt.png",
+        "description": "Advanced AI for chat and content generation.",
+        "No_login": true,
+        "accent_color": "#74aa9c"
+        }
+    ]
+}
