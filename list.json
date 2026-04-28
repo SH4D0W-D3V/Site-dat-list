@@ -466,7 +466,7 @@
       "name": "Tooooools",
       "url": "https://tooooools.app",
       "category": "Tools, Art & Design",
-      "icon_url": "https://tooooools.app/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=tooooools.app&sz=128",
       "description": "A curated collection of micro-tools for designers and developers to streamline creative workflows.",
       "No_login": true,
       "accent_color": "#000000"
@@ -526,7 +526,7 @@
       "name": "Wonder Share",
       "url": "https://pdf.wondershare.com",
       "category": "Productivity, Tools",
-      "icon_url": "https://www.google.com/s2/favicons?domain=pdf.wondershare.com&sz=128",
+      "icon_url": "https://www.google.com/s2/favicons?domain=wondershare.com&sz=128",
       "description": "Feature-rich PDF editor for viewing, editing, and converting files.",
       "No_login": false,
       "accent_color": "#e91e63"
@@ -546,7 +546,7 @@
       "name": "Replit",
       "url": "https://replit.com",
       "category": "Tools, Education",
-      "icon_url": "https://replit.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=128",
       "description": "A collaborative cloud IDE that allows users to write, run, and host code for projects instantly.",
       "No_login": false,
       "accent_color": "#f26b1d"
@@ -556,7 +556,7 @@
       "name": "Edraw Max",
       "url": "https://edrawmax.wondershare.com",
       "category": "Productivity, Art & Design",
-      "icon_url": "https://www.google.com/s2/favicons?domain=edrawmax.wondershare.com&sz=128",
+      "icon_url": "https://www.google.com/s2/favicons?domain=wondershare.com&sz=128",
       "description": "All-in-one diagramming tool for flowcharts, mind maps, and more.",
       "No_login": false,
       "accent_color": "#039be5"
@@ -566,7 +566,7 @@
       "name": "Azgaar",
       "url": "https://azgaar.github.io",
       "category": "Entertainment, Simulation",
-      "icon_url": "https://www.google.com/s2/favicons?domain=azgaar.github.io&sz=128",
+      "icon_url": "https://www.google.com/s2/favicons?domain=github.io&sz=128",
       "description": "Fantasy map generator for worldbuilders and tabletop RPG creators.",
       "No_login": true,
       "accent_color": "#558b2f"
@@ -596,7 +596,7 @@
       "name": "Slow Roads",
       "url": "https://slowroads.io",
       "category": "Racing, Simulation",
-      "icon_url": "https://slowroads.io/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=slowroads.io&sz=128",
       "description": "A procedural, infinite driving game designed for relaxation and scenic exploration in the browser.",
       "No_login": true,
       "accent_color": "#2ecc71"
@@ -616,7 +616,7 @@
       "name": "BuildCores",
       "url": "https://www.buildcores.com",
       "category": "Tools, Simulation",
-      "icon_url": "https://www.buildcores.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=buildcores.com&sz=128",
       "description": "A PC part picker and builder featuring a component database and interactive 3D PC building simulator.",
       "No_login": true,
       "accent_color": "#1a73e8"
@@ -626,7 +626,7 @@
       "name": "Cityweft",
       "url": "https://app.cityweft.com",
       "category": "Maps & Navigation, Productivity",
-      "icon_url": "https://app.cityweft.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=cityweft.com&sz=128",
       "description": "Cloud-based 3D city data platform for urban planning, providing precise building and terrain models.",
       "No_login": false,
       "accent_color": "#2d3436"
@@ -636,7 +636,7 @@
       "name": "Tinkercad",
       "url": "https://www.tinkercad.com",
       "category": "Education, Art & Design",
-      "icon_url": "https://www.tinkercad.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=tinkercad.com&sz=128",
       "description": "Autodesk's web app for 3D design, electronics simulation, and block-based coding.",
       "No_login": false,
       "accent_color": "#00a8e1"
@@ -646,7 +646,7 @@
       "name": "iFixit",
       "url": "https://www.ifixit.com",
       "category": "House & Home, Books & Reference",
-      "icon_url": "https://www.ifixit.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=ifixit.com&sz=128",
       "description": "The community-driven repair manual for everything, providing step-by-step guides for fixing electronics.",
       "No_login": true,
       "accent_color": "#0071ce"
@@ -656,7 +656,7 @@
       "name": "Ptable",
       "url": "https://ptable.com",
       "category": "Education, Books & Reference",
-      "icon_url": "https://ptable.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=ptable.com&sz=128",
       "description": "An interactive, fully responsive periodic table with real-time property visualization and orbital data.",
       "No_login": true,
       "accent_color": "#f1c40f"
@@ -666,7 +666,7 @@
       "name": "SuperCook",
       "url": "https://www.supercook.com",
       "category": "Food & Drink, Lifestyle",
-      "icon_url": "https://www.supercook.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=supercook.com&sz=128",
       "description": "A smart recipe search engine that generates meal ideas based on the ingredients you have at home.",
       "No_login": true,
       "accent_color": "#27ae60"
@@ -676,7 +676,7 @@
       "name": "AirConsole",
       "url": "https://www.airconsole.com",
       "category": "Entertainment, Casual",
-      "icon_url": "https://www.airconsole.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=airconsole.com&sz=128",
       "description": "A local multiplayer console that uses your browser as the screen and smartphones as gamepads.",
       "No_login": true,
       "accent_color": "#ffcd00"
@@ -686,7 +686,7 @@
       "name": "Animagraffs",
       "url": "https://animagraffs.com",
       "category": "Education, Entertainment",
-      "icon_url": "https://animagraffs.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=animagraffs.com&sz=128",
       "description": "Highly detailed 3D animated infographics explaining how complex machines and systems work.",
       "No_login": true,
       "accent_color": "#e67e22"
@@ -696,7 +696,7 @@
       "name": "CadXStudio",
       "url": "https://cadxstudio.in",
       "category": "Productivity, Art & Design",
-      "icon_url": "https://cadxstudio.in/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=cadxstudio.in&sz=128",
       "description": "AI-powered CAD and CAM platform for generating 3D models and G-code via natural language.",
       "No_login": false,
       "accent_color": "#3498db"
@@ -706,7 +706,7 @@
       "name": "ShadeMap",
       "url": "https://shademap.app",
       "category": "Maps & Navigation, Weather",
-      "icon_url": "https://shademap.app/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=shademap.app&sz=128",
       "description": "A global map that simulates shadows in real-time based on the sun's position and building heights.",
       "No_login": true,
       "accent_color": "#2c3e50"
@@ -716,7 +716,7 @@
       "name": "Floor796",
       "url": "https://floor796.com",
       "category": "Entertainment, Art & Design",
-      "icon_url": "https://floor796.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=floor796.com&sz=128",
       "description": "An ever-expanding collaborative animation project depicting life on a massive space station floor.",
       "No_login": true,
       "accent_color": "#8e44ad"
@@ -726,7 +726,7 @@
       "name": "Stella Nova",
       "url": "https://davesgames.io/stella-nova/",
       "category": "Simulation, Strategy",
-      "icon_url": "https://davesgames.io/apple-touch-icon.png",
+      "icon_url": "https://www.google.com/s2/favicons?domain=davesgames.io&sz=128",
       "description": "A web-based space station builder and colony management simulator with deep citizen AI and orbital mechanics.",
       "No_login": true,
       "accent_color": "#1e272e"
@@ -736,7 +736,7 @@
       "name": "zPeriod",
       "url": "https://zperiod.app",
       "category": "Education, Tools",
-      "icon_url": "https://zperiod.app/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=zperiod.app&sz=128",
       "description": "An interactive, minimalist periodic table for exploring element properties and chemical trends.",
       "No_login": true,
       "accent_color": "#ff4757"
@@ -746,7 +746,7 @@
       "name": "DesignCode SVG",
       "url": "https://svg.designcode.io",
       "category": "Art & Design, Productivity",
-      "icon_url": "https://designcode.io/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=designcode.io&sz=128",
       "description": "An interactive playground for generating and editing SVG code for UI design and animations.",
       "No_login": true,
       "accent_color": "#4731d3"
@@ -756,7 +756,7 @@
       "name": "Paper Animator",
       "url": "https://paperanimator.com",
       "category": "Art & Design, Entertainment",
-      "icon_url": "https://paperanimator.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=paperanimator.com&sz=128",
       "description": "A creative tool for building stop-motion style digital animations with a paper-craft aesthetic.",
       "No_login": true,
       "accent_color": "#fab1a0"
@@ -766,7 +766,7 @@
       "name": "Rayon Maps",
       "url": "https://maps.rayon.design",
       "category": "Productivity, Maps & Navigation",
-      "icon_url": "https://rayon.design/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=rayon.design&sz=128",
       "description": "A collaborative architectural space planning tool for creating floor plans and technical drawings.",
       "No_login": false,
       "accent_color": "#0984e3"
@@ -776,7 +776,7 @@
       "name": "MapIt",
       "url": "https://mapitapp.cc",
       "category": "Productivity, Tools",
-      "icon_url": "https://mapitapp.cc/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=mapitapp.cc&sz=128",
       "description": "A spatial canvas tool for mind mapping, project flow organization, and visual thinking.",
       "No_login": false,
       "accent_color": "#6c5ce7"
@@ -786,7 +786,7 @@
       "name": "Sweezy Cursors",
       "url": "https://sweezy-cursors.com",
       "category": "Personalization, Entertainment",
-      "icon_url": "https://sweezy-cursors.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=sweezy-cursors.com&sz=128",
       "description": "A huge library of custom, animated mouse cursors for Chrome and other browsers.",
       "No_login": true,
       "accent_color": "#e84393"
@@ -796,7 +796,7 @@
       "name": "Storytribe",
       "url": "https://storytribeapp.com",
       "category": "Art & Design, Social",
-      "icon_url": "https://storytribeapp.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=storytribeapp.com&sz=128",
       "description": "A visual storyboard creator for non-artists to communicate ideas and narratives effectively.",
       "No_login": false,
       "accent_color": "#fdcb6e"
@@ -806,7 +806,7 @@
       "name": "Runable",
       "url": "https://runable.com",
       "category": "Tools, Education",
-      "icon_url": "https://runable.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=runable.com&sz=128",
       "description": "A cloud-based sandbox platform for running and sharing code snippets in real-time.",
       "No_login": false,
       "accent_color": "#34495e"
@@ -816,7 +816,7 @@
       "name": "Sakugabooru",
       "url": "https://sakugabooru.com",
       "category": "Entertainment, Art & Design",
-      "icon_url": "https://www.sakugabooru.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=sakugabooru.com&sz=128",
       "description": "An imageboard community dedicated to archiving and discussing high-quality animation clips (Sakuga).",
       "No_login": true,
       "accent_color": "#3366ff"
@@ -826,7 +826,7 @@
       "name": "Swishy AI",
       "url": "https://swishy.ai",
       "category": "Art & Design, Entertainment",
-      "icon_url": "https://swishy.ai/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=swishy.ai&sz=128",
       "description": "AI-powered platform for generating and editing short-form video content and animations.",
       "No_login": false,
       "accent_color": "#e056fd"
@@ -836,7 +836,7 @@
       "name": "Blueprint",
       "url": "https://blueprint.am",
       "category": "Productivity, Art & Design",
-      "icon_url": "https://blueprint.am/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=blueprint.am&sz=128",
       "description": "A visualization tool for architectural blueprints and engineering diagrams.",
       "No_login": true,
       "accent_color": "#2980b9"
@@ -846,7 +846,7 @@
       "name": "Napkin AI",
       "url": "https://napkin.ai",
       "category": "Productivity, Art & Design",
-      "icon_url": "https://napkin.ai/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=napkin.ai&sz=128",
       "description": "Generates visual diagrams and infographics from text descriptions for documentation and slides.",
       "No_login": false,
       "accent_color": "#1abc9c"
@@ -856,7 +856,7 @@
       "name": "Terraink",
       "url": "https://terraink.app",
       "category": "Art & Design, Simulation",
-      "icon_url": "https://terraink.app/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=terraink.app&sz=128",
       "description": "A 3D terrain and landscape generator for game developers and environment artists.",
       "No_login": true,
       "accent_color": "#27ae60"
@@ -866,7 +866,7 @@
       "name": "Higgsfield AI",
       "url": "https://higgsfield.ai",
       "category": "Entertainment, Video Players & Editors",
-      "icon_url": "https://higgsfield.ai/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=128",
       "description": "A generative AI video platform focused on high-fidelity human motion and character consistency.",
       "No_login": false,
       "accent_color": "#111111"
@@ -876,7 +876,7 @@
       "name": "Papermau",
       "url": "https://papermau.blogspot.com",
       "category": "Education, Lifestyle",
-      "icon_url": "https://www.blogger.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=blogspot.com&sz=128",
       "description": "A massive repository of free paper model templates for hobbyists and collectors.",
       "No_login": true,
       "accent_color": "#ff5722"
@@ -886,7 +886,7 @@
       "name": "Tailornova",
       "url": "https://tailornova.com",
       "category": "Art & Design, Lifestyle",
-      "icon_url": "https://tailornova.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=tailornova.com&sz=128",
       "description": "A 3D fashion design software for creating custom sewing patterns and apparel fits.",
       "No_login": false,
       "accent_color": "#eb4d4b"
@@ -896,7 +896,7 @@
       "name": "Adam.new",
       "url": "https://adam.new",
       "category": "Productivity, Personalization",
-      "icon_url": "https://adam.new/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=adam.new&sz=128",
       "description": "A professional portfolio and personal landing page builder for creators and developers.",
       "No_login": false,
       "accent_color": "#000000"
@@ -906,7 +906,7 @@
       "name": "Text Repeater",
       "url": "https://textrepeater.com",
       "category": "Tools, Communication",
-      "icon_url": "https://textrepeater.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=textrepeater.com&sz=128",
       "description": "A utility for repeating text blocks, generating bulk text, and manipulating strings.",
       "No_login": true,
       "accent_color": "#f1c40f"
@@ -916,7 +916,7 @@
       "name": "City Roads",
       "url": "https://anvaka.github.io/city-roads/",
       "category": "Art & Design, Maps & Navigation",
-      "icon_url": "https://anvaka.github.io/city-roads/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=github.io&sz=128",
       "description": "Visualizes all the roads within a city as minimalist, high-quality vector art.",
       "No_login": true,
       "accent_color": "#111111"
@@ -926,7 +926,7 @@
       "name": "Sketchfab",
       "url": "https://sketchfab.com",
       "category": "Art & Design, Entertainment",
-      "icon_url": "https://sketchfab.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=sketchfab.com&sz=128",
       "description": "The largest platform for publishing, sharing, and discovering interactive 3D models and AR content.",
       "No_login": true,
       "accent_color": "#1caad9"
@@ -936,7 +936,7 @@
       "name": "Javalab",
       "url": "https://javalab.org",
       "category": "Education, Simulation",
-      "icon_url": "https://javalab.org/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=javalab.org&sz=128",
       "description": "A collection of interactive online science and physics simulations and virtual labs.",
       "No_login": true,
       "accent_color": "#2980b9"
@@ -946,7 +946,7 @@
       "name": "Coddy",
       "url": "https://coddy.tech",
       "category": "Education, Tools",
-      "icon_url": "https://coddy.tech/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=coddy.tech&sz=128",
       "description": "A practice-driven coding platform with hands-on challenges and AI-assisted learning.",
       "No_login": false,
       "accent_color": "#6c5ce7"
@@ -956,7 +956,7 @@
       "name": "VVD World",
       "url": "https://vvd.world",
       "category": "Art & Design, Simulation",
-      "icon_url": "https://vvd.world/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=vvd.world&sz=128",
       "description": "A virtual reality and interactive 3D world platform for showcasing architectural and digital environments.",
       "No_login": true,
       "accent_color": "#7d5fff"
@@ -966,7 +966,7 @@
       "name": "FreeSewing",
       "url": "https://freesewing.eu",
       "category": "Lifestyle, Art & Design",
-      "icon_url": "https://freesewing.eu/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=freesewing.eu&sz=128",
       "description": "An open-source platform providing custom-fit sewing patterns for users worldwide.",
       "No_login": true,
       "accent_color": "#212121"
@@ -976,7 +976,7 @@
       "name": "3DLogoLab",
       "url": "https://3dlogo.io",
       "category": "Art & Design, Tools",
-      "icon_url": "https://3dlogo.io/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=3dlogo.io&sz=128",
       "description": "A 3D logo generator that transforms flat images into textured and animated 3D geometries.",
       "No_login": true,
       "accent_color": "#00d2ff"
@@ -986,7 +986,7 @@
       "name": "NB Chemistry",
       "url": "https://chemistry-en.nobook.com",
       "category": "Education, Simulation",
-      "icon_url": "https://nobook.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=nobook.com&sz=128",
       "description": "A professional-grade virtual chemistry laboratory for performing experiments safely in 3D.",
       "No_login": false,
       "accent_color": "#3c6382"
@@ -996,7 +996,7 @@
       "name": "EmojiCombos",
       "url": "https://emojicombos.com",
       "category": "Communication, Personalization",
-      "icon_url": "https://emojicombos.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=emojicombos.com&sz=128",
       "description": "A database of aesthetic emoji combinations and kaomoji for social media and profiles.",
       "No_login": true,
       "accent_color": "#fffa65"
@@ -1006,7 +1006,7 @@
       "name": "NASA Hubble B-Day",
       "url": "https://imagine.gsfc.nasa.gov/hst_bday/",
       "category": "Education, Entertainment",
-      "icon_url": "https://imagine.gsfc.nasa.gov/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=nasa.gov&sz=128",
       "description": "A NASA tool that shows you the cosmic image Hubble captured on your specific birthday.",
       "No_login": true,
       "accent_color": "#0b3d91"
@@ -1016,7 +1016,7 @@
       "name": "Wokwi",
       "url": "https://wokwi.com",
       "category": "Education, Simulation",
-      "icon_url": "https://wokwi.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=wokwi.com&sz=128",
       "description": "An online electronics simulator for Arduino, ESP32, and STM32, ideal for learning circuits.",
       "No_login": true,
       "accent_color": "#2d3436"
@@ -1026,7 +1026,7 @@
       "name": "Electude Simulator",
       "url": "https://simulator.electude.com/simulator",
       "category": "Education, Simulation",
-      "icon_url": "https://electude.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=electude.com&sz=128",
       "description": "An advanced automotive technician training simulator for engine diagnostics and repair.",
       "No_login": false,
       "accent_color": "#d63031"
@@ -1036,7 +1036,7 @@
       "name": "Unicorn Studio",
       "url": "https://unicorn.studio",
       "category": "Art & Design, Tools",
-      "icon_url": "https://unicorn.studio/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=unicorn.studio&sz=128",
       "description": "A tool for adding high-end WebGL effects and animations to websites without complex code.",
       "No_login": false,
       "accent_color": "#f368e0"
@@ -1046,7 +1046,7 @@
       "name": "Skill-Lync",
       "url": "https://resources.skill-lync.com",
       "category": "Education, Productivity",
-      "icon_url": "https://skill-lync.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=skill-lync.com&sz=128",
       "description": "An engineering-focused learning platform offering industry-specific courses in CAD, CAE, and CFD.",
       "No_login": false,
       "accent_color": "#2c3e50"
@@ -1056,7 +1056,7 @@
       "name": "PhotoGradient",
       "url": "https://photogradient.com",
       "category": "Art & Design, Photography",
-      "icon_url": "https://photogradient.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=photogradient.com&sz=128",
       "description": "A design tool for generating and applying smooth mesh gradients to photos and backgrounds.",
       "No_login": true,
       "accent_color": "#00d2d3"
@@ -1066,7 +1066,7 @@
       "name": "PerlerBeads",
       "url": "https://perlerbeads.net",
       "category": "Art & Design, Lifestyle",
-      "icon_url": "https://perlerbeads.net/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=perlerbeads.net&sz=128",
       "description": "A pattern maker and community resource for creating fuse bead art designs.",
       "No_login": true,
       "accent_color": "#ff9f43"
@@ -1076,7 +1076,7 @@
       "name": "Diode",
       "url": "https://withdiode.com",
       "category": "Tools, Productivity",
-      "icon_url": "https://withdiode.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=withdiode.com&sz=128",
       "description": "A secure, decentralized collaboration platform for team communication and file sharing.",
       "No_login": false,
       "accent_color": "#5f27cd"
@@ -1086,7 +1086,7 @@
       "name": "MapGenie",
       "url": "https://mapgenie.io",
       "category": "Entertainment, Tools",
-      "icon_url": "https://mapgenie.io/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=mapgenie.io&sz=128",
       "description": "A library of highly detailed interactive maps for popular open-world video games.",
       "No_login": true,
       "accent_color": "#222f3e"
@@ -1096,7 +1096,7 @@
       "name": "Arcadium 3D",
       "url": "https://arcadium3d.com",
       "category": "Art & Design, House & Home",
-      "icon_url": "https://arcadium3d.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=arcadium3d.com&sz=128",
       "description": "A fast, AI-powered 3D home design tool for creating room layouts and visualizations.",
       "No_login": true,
       "accent_color": "#10ac84"
@@ -1106,7 +1106,7 @@
       "name": "Setteidreams",
       "url": "https://setteidreams.net",
       "category": "Entertainment, Art & Design",
-      "icon_url": "https://setteidreams.net/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=setteidreams.net&sz=128",
       "description": "A specialized archive of anime production art (settei) and reference materials.",
       "No_login": true,
       "accent_color": "#ff6b6b"
@@ -1116,7 +1116,7 @@
       "name": "Bongo Cat",
       "url": "https://github.com/ayangweb/BongoCat",
       "category": "Entertainment, Casual",
-      "icon_url": "https://github.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
       "description": "A fun, interactive web-based instrument featuring the famous Bongo Cat meme.",
       "No_login": true,
       "accent_color": "#000000"
@@ -1126,7 +1126,7 @@
       "name": "World Monitor",
       "url": "https://worldmonitor.app",
       "category": "News & Magazines, Tools",
-      "icon_url": "https://worldmonitor.app/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=worldmonitor.app&sz=128",
       "description": "A real-time data dashboard tracking global events, infrastructure, and environmental metrics.",
       "No_login": true,
       "accent_color": "#2d3436"
@@ -1136,7 +1136,7 @@
       "name": "Auto Catalog Archive",
       "url": "https://autocatalogarchive.com",
       "category": "Books & Reference, Auto & Vehicles",
-      "icon_url": "https://autocatalogarchive.com/wp-content/uploads/2016/12/cropped-favicon-32x32.png",
+      "icon_url": "https://www.google.com/s2/favicons?domain=autocatalogarchive.com&sz=128",
       "description": "A massive digital library of PDF brochures and technical specifications for cars throughout history.",
       "No_login": true,
       "accent_color": "#d63031"
@@ -1146,7 +1146,7 @@
       "name": "F4Map",
       "url": "https://demo.f4map.com",
       "category": "Maps & Navigation, Travel & Local",
-      "icon_url": "https://f4map.com/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=f4map.com&sz=128",
       "description": "A powerful 3D web engine that renders OpenStreetMap data with real-time lighting, shadows, and weather.",
       "No_login": true,
       "accent_color": "#2c3e50"
@@ -1156,7 +1156,7 @@
       "name": "3DLogoLab",
       "url": "https://3dlogolab.io",
       "category": "Art & Design, Tools",
-      "icon_url": "https://3dlogolab.io/favicon.ico",
+      "icon_url": "https://www.google.com/s2/favicons?domain=3dlogolab.io&sz=128",
       "description": "A design tool that converts 2D logos into 3D animations and geometries for branding.",
       "No_login": true,
       "accent_color": "#00d2ff"
