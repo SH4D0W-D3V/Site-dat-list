@@ -1,608 +1,1165 @@
 {
-    "last_updated": "2026-04-21",
-    "categories": ["Productivity", "Social", "AI", "Design"],
-    "tools": 
-    [
-  {
-    "id": "thiings_01",
-    "name": "Thiings",
-    "url": "https://thiings.co",
-    "category": "Image",
-    "icon_url": "https://www.google.com/s2/favicons?domain=thiings.co&sz=128",
-    "description": "Browse and find high-quality images and visual assets.",
-    "No_login": true,
-    "accent_color": "#f4a261"
-  },
-  {
-    "id": "typingbird_01",
-    "name": "Typingbird",
-    "url": "https://typingbird.com",
-    "category": "Typing",
-    "icon_url": "https://www.google.com/s2/favicons?domain=typingbird.com&sz=128",
-    "description": "Fun typing game to improve your speed and accuracy.",
-    "No_login": true,
-    "accent_color": "#43aa8b"
-  },
-  {
-    "id": "pixie_haus_01",
-    "name": "Pixie Haus",
-    "url": "https://pixie.haus",
-    "category": "Art",
-    "icon_url": "https://www.google.com/s2/favicons?domain=pixie.haus&sz=128",
-    "description": "AI-powered pixel art creation tool for artists and hobbyists.",
-    "No_login": true,
-    "accent_color": "#e040fb"
-  },
-  {
-    "id": "animejs_01",
-    "name": "Anime.js",
-    "url": "https://animejs.com",
-    "category": "Development",
-    "icon_url": "https://www.google.com/s2/favicons?domain=animejs.com&sz=128",
-    "description": "Lightweight JavaScript animation library for web developers.",
-    "No_login": true,
-    "accent_color": "#ff6b6b"
-  },
-  {
-    "id": "stay_01",
-    "name": "Stay",
-    "url": "https://staying.fun",
-    "category": "Visualize",
-    "icon_url": "https://www.google.com/s2/favicons?domain=staying.fun&sz=128",
-    "description": "Interactive data visualization tool for developers.",
-    "No_login": true,
-    "accent_color": "#4ecdc4"
-  },
-  {
-    "id": "stirling_pdf_01",
-    "name": "Stirling PDF",
-    "url": "https://stirlingpdf.com",
-    "category": "PDF",
-    "icon_url": "https://www.google.com/s2/favicons?domain=stirlingpdf.com&sz=128",
-    "description": "Powerful self-hosted PDF editor with a wide range of tools.",
-    "No_login": true,
-    "accent_color": "#1565c0"
-  },
-  {
-    "id": "reactbits_01",
-    "name": "Reactbits",
-    "url": "https://reactbits.dev",
-    "category": "Development",
-    "icon_url": "https://www.google.com/s2/favicons?domain=reactbits.dev&sz=128",
-    "description": "Collection of animated React components for modern UIs.",
-    "No_login": true,
-    "accent_color": "#61dafb"
-  },
-  {
-    "id": "pngimg_01",
-    "name": "PngImg",
-    "url": "https://pngimg.com",
-    "category": "Image",
-    "icon_url": "https://www.google.com/s2/favicons?domain=pngimg.com&sz=128",
-    "description": "Large library of free PNG images with transparent backgrounds.",
-    "No_login": true,
-    "accent_color": "#ff9800"
-  },
-  {
-    "id": "instructables_01",
-    "name": "Instructables",
-    "url": "https://instructables.com",
-    "category": "DIY",
-    "icon_url": "https://www.google.com/s2/favicons?domain=instructables.com&sz=128",
-    "description": "Community platform for DIY projects, crafts, and how-to guides.",
-    "No_login": true,
-    "accent_color": "#f5a623"
-  },
-  {
-    "id": "topoexport_01",
-    "name": "TopoExport",
-    "url": "https://topoexport.com",
-    "category": "Map",
-    "icon_url": "https://www.google.com/s2/favicons?domain=topoexport.com&sz=128",
-    "description": "Export topographic maps as 3D models for design and printing.",
-    "No_login": true,
-    "accent_color": "#6d9e6a"
-  },
-  {
-    "id": "lingohut_01",
-    "name": "LingoHut",
-    "url": "https://lingohut.com",
-    "category": "Learning",
-    "icon_url": "https://www.google.com/s2/favicons?domain=lingohut.com&sz=128",
-    "description": "Free platform for learning vocabulary in dozens of languages.",
-    "No_login": true,
-    "accent_color": "#ff7043"
-  },
-  {
-    "id": "snazzy_maps_01",
-    "name": "Snazzy Maps",
-    "url": "https://snazzymaps.com",
-    "category": "Map",
-    "icon_url": "https://www.google.com/s2/favicons?domain=snazzymaps.com&sz=128",
-    "description": "Custom Google Maps styles for designers and developers.",
-    "No_login": true,
-    "accent_color": "#26a69a"
-  },
-  {
-    "id": "emergent_01",
-    "name": "Emergent",
-    "url": "https://emergent.sh",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=emergent.sh&sz=128",
-    "description": "AI-powered development assistant for building apps faster.",
-    "No_login": true,
-    "accent_color": "#7c4dff"
-  },
-  {
-    "id": "kiddo_worksheets_01",
-    "name": "Kiddo Worksheets",
-    "url": "https://kiddoworksheets.com",
-    "category": "Kids",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kiddoworksheets.com&sz=128",
-    "description": "Printable educational worksheets for kids of all ages.",
-    "No_login": true,
-    "accent_color": "#ffca28"
-  },
-  {
-    "id": "hugging_face_01",
-    "name": "Hugging Face",
-    "url": "https://huggingface.co",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
-    "description": "The leading platform for open-source AI models and datasets.",
-    "No_login": true,
-    "accent_color": "#ff9d00"
-  },
-  {
-    "id": "magic_eraser_01",
-    "name": "Magic Eraser",
-    "url": "https://magiceraser.pro",
-    "category": "Image",
-    "icon_url": "https://www.google.com/s2/favicons?domain=magiceraser.pro&sz=128",
-    "description": "Instantly remove unwanted objects from photos with AI.",
-    "No_login": true,
-    "accent_color": "#ab47bc"
-  },
-  {
-    "id": "3d_tuning_01",
-    "name": "3D Tuning",
-    "url": "https://www.3dtuning.com/en-US/",
-    "category": "Vehicles",
-    "icon_url": "https://www.google.com/s2/favicons?domain=3dtuning.com&sz=128",
-    "description": "Customize and visualize cars in stunning 3D.",
-    "No_login": true,
-    "accent_color": "#ef5350"
-  },
-  {
-    "id": "stockimg_ai_01",
-    "name": "StockIMG AI",
-    "url": "https://stockimg.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=stockimg.ai&sz=128",
-    "description": "AI image generator for stock photos, logos, and more.",
-    "No_login": false,
-    "accent_color": "#5c6bc0"
-  },
-  {
-    "id": "symbolab_01",
-    "name": "Symbolab",
-    "url": "https://symbolab.com",
-    "category": "Maths",
-    "icon_url": "https://www.google.com/s2/favicons?domain=symbolab.com&sz=128",
-    "description": "Advanced math solver and step-by-step calculator for students.",
-    "No_login": true,
-    "accent_color": "#e53935"
-  },
-  {
-    "id": "radiocast_01",
-    "name": "Radiocast",
-    "url": "https://radiocast.co",
-    "category": "Radio",
-    "icon_url": "https://www.google.com/s2/favicons?domain=radiocast.co&sz=128",
-    "description": "Explore and stream radio stations from around the world.",
-    "No_login": true,
-    "accent_color": "#00acc1"
-  },
-  {
-    "id": "flourish_01",
-    "name": "Flourish",
-    "url": "https://flourish.studio",
-    "category": "Visualize",
-    "icon_url": "https://www.google.com/s2/favicons?domain=flourish.studio&sz=128",
-    "description": "Create beautiful interactive charts and data stories online.",
-    "No_login": false,
-    "accent_color": "#00897b"
-  },
-  {
-    "id": "language_google_01",
-    "name": "Language (Google)",
-    "url": "https://labs.google/lll/en",
-    "category": "Learning",
-    "icon_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=128",
-    "description": "Google Labs language learning experiments and tools.",
-    "No_login": true,
-    "accent_color": "#4285f4"
-  },
-  {
-    "id": "meshy_01",
-    "name": "Meshy",
-    "url": "https://meshy.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=meshy.ai&sz=128",
-    "description": "AI-powered tool for generating 3D models from text or images.",
-    "No_login": false,
-    "accent_color": "#7e57c2"
-  },
-  {
-    "id": "my_fridge_food_01",
-    "name": "My Fridge Food",
-    "url": "https://myfridgefood.com",
-    "category": "Cooking",
-    "icon_url": "https://www.google.com/s2/favicons?domain=myfridgefood.com&sz=128",
-    "description": "Find recipes based on ingredients you already have at home.",
-    "No_login": true,
-    "accent_color": "#66bb6a"
-  },
-  {
-    "id": "readdy_01",
-    "name": "Readdy",
-    "url": "https://readdy.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=readdy.ai&sz=128",
-    "description": "AI app builder that turns ideas into functional applications.",
-    "No_login": false,
-    "accent_color": "#29b6f6"
-  },
-  {
-    "id": "recraft_01",
-    "name": "Recraft",
-    "url": "https://recraft.ai",
-    "category": "Design",
-    "icon_url": "https://www.google.com/s2/favicons?domain=recraft.ai&sz=128",
-    "description": "AI design tool for generating mockups, icons, and illustrations.",
-    "No_login": false,
-    "accent_color": "#f06292"
-  },
-  {
-    "id": "mult_01",
-    "name": "Mult",
-    "url": "https://mult.dev",
-    "category": "Animation",
-    "icon_url": "https://www.google.com/s2/favicons?domain=mult.dev&sz=128",
-    "description": "Create animated travel and motion graphics for the web.",
-    "No_login": true,
-    "accent_color": "#ffa726"
-  },
-  {
-    "id": "manual_lib_01",
-    "name": "ManualsLib",
-    "url": "https://manualslib.com",
-    "category": "Library",
-    "icon_url": "https://www.google.com/s2/favicons?domain=manualslib.com&sz=128",
-    "description": "Largest online library of product manuals and user guides.",
-    "No_login": true,
-    "accent_color": "#78909c"
-  },
-  {
-    "id": "olmocr_01",
-    "name": "olmOCR",
-    "url": "https://olmocr.allenai.org",
-    "category": "PDF",
-    "icon_url": "https://www.google.com/s2/favicons?domain=olmocr.allenai.org&sz=128",
-    "description": "AI-powered OCR tool to extract text from PDFs accurately.",
-    "No_login": true,
-    "accent_color": "#0288d1"
-  },
-  {
-    "id": "autodraw_01",
-    "name": "AutoDraw",
-    "url": "https://autodraw.com",
-    "category": "Design",
-    "icon_url": "https://www.google.com/s2/favicons?domain=autodraw.com&sz=128",
-    "description": "Google's AI drawing tool that turns rough sketches into clean art.",
-    "No_login": true,
-    "accent_color": "#ffee58"
-  },
-  {
-    "id": "remove_photos_01",
-    "name": "Remove Photos",
-    "url": "https://remove.photos",
-    "category": "Image",
-    "icon_url": "https://www.google.com/s2/favicons?domain=remove.photos&sz=128",
-    "description": "Automatically remove image backgrounds in seconds.",
-    "No_login": true,
-    "accent_color": "#ec407a"
-  },
-  {
-    "id": "abacus_ai_01",
-    "name": "Abacus AI",
-    "url": "https://deepagent.abacus.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=abacus.ai&sz=128",
-    "description": "Deep AI agent platform for automating complex development tasks.",
-    "No_login": false,
-    "accent_color": "#3949ab"
-  },
-  {
-    "id": "colorify_ai_01",
-    "name": "Colorify AI",
-    "url": "https://colorifyai.art",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=colorifyai.art&sz=128",
-    "description": "AI-powered tool to colorize and bring life to coloring pages.",
-    "No_login": true,
-    "accent_color": "#ff7043"
-  },
-  {
-    "id": "app_alchemy_01",
-    "name": "App Alchemy",
-    "url": "https://appalchemy.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=appalchemy.ai&sz=128",
-    "description": "Generate UI designs and app prototypes with AI.",
-    "No_login": false,
-    "accent_color": "#8d6e63"
-  },
-  {
-    "id": "codedex_01",
-    "name": "Codedex",
-    "url": "https://codedex.io",
-    "category": "Learning",
-    "icon_url": "https://www.google.com/s2/favicons?domain=codedex.io&sz=128",
-    "description": "Learn to code through fun, game-like interactive challenges.",
-    "No_login": false,
-    "accent_color": "#f9a825"
-  },
-  {
-    "id": "keybr_01",
-    "name": "Keybr",
-    "url": "https://keybr.com",
-    "category": "Typing",
-    "icon_url": "https://www.google.com/s2/favicons?domain=keybr.com&sz=128",
-    "description": "Improve touch typing speed with smart adaptive lessons.",
-    "No_login": true,
-    "accent_color": "#5c6bc0"
-  },
-  {
-    "id": "human_benchmark_01",
-    "name": "Human Benchmark",
-    "url": "https://humanbenchmark.com",
-    "category": "Fun",
-    "icon_url": "https://www.google.com/s2/favicons?domain=humanbenchmark.com&sz=128",
-    "description": "Test your reaction time, memory, and other cognitive abilities.",
-    "No_login": true,
-    "accent_color": "#00bcd4"
-  },
-  {
-    "id": "imagine_explainers_01",
-    "name": "Imagine Explainers",
-    "url": "https://imagineexplainers.com",
-    "category": "Learning",
-    "icon_url": "https://www.google.com/s2/favicons?domain=imagineexplainers.com&sz=128",
-    "description": "AI-generated visual explainers that make complex topics simple.",
-    "No_login": true,
-    "accent_color": "#ff8a65"
-  },
-  {
-    "id": "formia_01",
-    "name": "Formia",
-    "url": "https://formia.so",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=formia.so&sz=128",
-    "description": "Generate 3D forms and structures using AI-driven tools.",
-    "No_login": true,
-    "accent_color": "#26c6da"
-  },
-  {
-    "id": "gamma_01",
-    "name": "Gamma",
-    "url": "https://gamma.app",
-    "category": "Presentation",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128",
-    "description": "AI-powered tool to create stunning presentations and documents.",
-    "No_login": false,
-    "accent_color": "#7c3aed"
-  },
-  {
-    "id": "virtual_vacation_01",
-    "name": "Virtual Vacation",
-    "url": "https://virtualvacation.us",
-    "category": "Travel",
-    "icon_url": "https://www.google.com/s2/favicons?domain=virtualvacation.us&sz=128",
-    "description": "Take a virtual tour of destinations around the world from your browser.",
-    "No_login": true,
-    "accent_color": "#29b6f6"
-  },
-  {
-    "id": "10015_01",
-    "name": "10015",
-    "url": "https://10015.io",
-    "category": "Development",
-    "icon_url": "https://www.google.com/s2/favicons?domain=10015.io&sz=128",
-    "description": "All-in-one toolbox with 100+ free online developer tools.",
-    "No_login": true,
-    "accent_color": "#546e7a"
-  },
-  {
-    "id": "data_button_01",
-    "name": "Data Button",
-    "url": "https://databutton.com",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=databutton.com&sz=128",
-    "description": "Build and deploy AI-powered data apps without writing backend code.",
-    "No_login": false,
-    "accent_color": "#1976d2"
-  },
-  {
-    "id": "production_crate_01",
-    "name": "Production Crate",
-    "url": "https://productioncrate.com",
-    "category": "VFX",
-    "icon_url": "https://www.google.com/s2/favicons?domain=productioncrate.com&sz=128",
-    "description": "Library of free VFX assets, sound effects, and motion graphics.",
-    "No_login": false,
-    "accent_color": "#d32f2f"
-  },
-  {
-    "id": "immersity_ai_01",
-    "name": "Immersity AI",
-    "url": "https://immersity.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=immersity.ai&sz=128",
-    "description": "Convert 2D images into immersive 3D experiences with AI.",
-    "No_login": false,
-    "accent_color": "#0097a7"
-  },
-  {
-    "id": "tooooools_01",
-    "name": "Tooooools",
-    "url": "https://tooooools.app",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=tooooools.app&sz=128",
-    "description": "Collection of AI-powered image and creative tools in one place.",
-    "No_login": true,
-    "accent_color": "#ff5722"
-  },
-  {
-    "id": "wolfram_alpha_01",
-    "name": "Wolfram Alpha",
-    "url": "https://wolframalpha.com",
-    "category": "Maths",
-    "icon_url": "https://www.google.com/s2/favicons?domain=wolframalpha.com&sz=128",
-    "description": "Computational knowledge engine for math, science, and data.",
-    "No_login": true,
-    "accent_color": "#e53935"
-  },
-  {
-    "id": "typing_club_01",
-    "name": "Typing Club",
-    "url": "https://typingclub.com",
-    "category": "Typing",
-    "icon_url": "https://www.google.com/s2/favicons?domain=typingclub.com&sz=128",
-    "description": "Learn touch typing through structured, interactive lessons.",
-    "No_login": true,
-    "accent_color": "#43a047"
-  },
-  {
-    "id": "notta_01",
-    "name": "Notta",
-    "url": "https://notta.ai",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=notta.ai&sz=128",
-    "description": "AI transcription tool to convert audio and video to text instantly.",
-    "No_login": false,
-    "accent_color": "#1e88e5"
-  },
-  {
-    "id": "table_topy_01",
-    "name": "Table Topy",
-    "url": "https://tabletopy.com",
-    "category": "VFX",
-    "icon_url": "https://www.google.com/s2/favicons?domain=tabletopy.com&sz=128",
-    "description": "Visual effects and asset library for tabletop RPG enthusiasts.",
-    "No_login": true,
-    "accent_color": "#6d4c41"
-  },
-  {
-    "id": "solvely_01",
-    "name": "Solvely",
-    "url": "https://solvely.ai",
-    "category": "Learning",
-    "icon_url": "https://www.google.com/s2/favicons?domain=solvely.ai&sz=128",
-    "description": "AI homework helper that solves problems step by step.",
-    "No_login": false,
-    "accent_color": "#00897b"
-  },
-  {
-    "id": "wonder_share_01",
-    "name": "Wonder Share",
-    "url": "https://pdf.wondershare.com",
-    "category": "PDF",
-    "icon_url": "https://www.google.com/s2/favicons?domain=pdf.wondershare.com&sz=128",
-    "description": "Feature-rich PDF editor for viewing, editing, and converting files.",
-    "No_login": false,
-    "accent_color": "#e91e63"
-  },
-  {
-    "id": "bolt_01",
-    "name": "Bolt",
-    "url": "https://bolt.new",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128",
-    "description": "AI-powered tool to generate and deploy full-stack web apps instantly.",
-    "No_login": false,
-    "accent_color": "#6200ea"
-  },
-  {
-    "id": "replit_01",
-    "name": "Replit",
-    "url": "https://replit.com",
-    "category": "Development",
-    "icon_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=128",
-    "description": "Browser-based IDE for coding, collaborating, and deploying apps.",
-    "No_login": false,
-    "accent_color": "#f26207"
-  },
-  {
-    "id": "edraw_max_01",
-    "name": "Edraw Max",
-    "url": "https://edrawmax.wondershare.com",
-    "category": "Charts",
-    "icon_url": "https://www.google.com/s2/favicons?domain=edrawmax.wondershare.com&sz=128",
-    "description": "All-in-one diagramming tool for flowcharts, mind maps, and more.",
-    "No_login": false,
-    "accent_color": "#039be5"
-  },
-  {
-    "id": "azgaar_01",
-    "name": "Azgaar",
-    "url": "https://azgaar.github.io",
-    "category": "Map",
-    "icon_url": "https://www.google.com/s2/favicons?domain=azgaar.github.io&sz=128",
-    "description": "Fantasy map generator for worldbuilders and tabletop RPG creators.",
-    "No_login": true,
-    "accent_color": "#558b2f"
-  },
-  {
-    "id": "silo_team_01",
-    "name": "Silo Team",
-    "url": "https://silo.team",
-    "category": "Planning",
-    "icon_url": "https://www.google.com/s2/favicons?domain=silo.team&sz=128",
-    "description": "Visual planning tool for teams to manage projects and workflows.",
-    "No_login": false,
-    "accent_color": "#546e7a"
-  },
-  {
-    "id": "fake_update_01",
-    "name": "Fake Update",
-    "url": "https://fakeupdate.net",
-    "category": "Fun",
-    "icon_url": "https://www.google.com/s2/favicons?domain=fakeupdate.net&sz=128",
-    "description": "Prank your friends with a realistic fake OS update screen.",
-    "No_login": true,
-    "accent_color": "#455a64"
-  },
-  {
-    "id": "slow_roads_01",
-    "name": "Slow Roads",
-    "url": "https://slowroads.io",
-    "category": "Game",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slowroads.io&sz=128",
-    "description": "Relaxing endless driving game through procedurally generated landscapes.",
-    "No_login": true,
-    "accent_color": "#388e3c"
-  },
-  {
-    "id": "novoresume_01",
-    "name": "Novoresume",
-    "url": "https://novoresume.com",
-    "category": "AI",
-    "icon_url": "https://www.google.com/s2/favicons?domain=novoresume.com&sz=128",
-    "description": "AI-powered resume builder to create professional CVs in minutes.",
-    "No_login": false,
-    "accent_color": "#1565c0"
-  }
-]
-
+  "last_updated": "2026-04-28",
+  "categories": [
+    "Productivity",
+    "Social",
+    "AI",
+    "Design",
+    "Tools",
+    "Education",
+    "Maps & Navigation",
+    "Entertainment"
+  ],
+  "tools": [
+    {
+      "id": "thiings_01",
+      "name": "Thiings",
+      "url": "https://thiings.co",
+      "category": "Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=thiings.co&sz=128",
+      "description": "Browse and find high-quality images and visual assets.",
+      "No_login": true,
+      "accent_color": "#f4a261"
+    },
+    {
+      "id": "typingbird_01",
+      "name": "Typingbird",
+      "url": "https://typingbird.com",
+      "category": "Education, Casual",
+      "icon_url": "https://www.google.com/s2/favicons?domain=typingbird.com&sz=128",
+      "description": "Fun typing game to improve your speed and accuracy.",
+      "No_login": true,
+      "accent_color": "#43aa8b"
+    },
+    {
+      "id": "pixie_haus_01",
+      "name": "Pixie Haus",
+      "url": "https://pixie.haus",
+      "category": "Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=pixie.haus&sz=128",
+      "description": "AI-powered pixel art creation tool for artists and hobbyists.",
+      "No_login": true,
+      "accent_color": "#e040fb"
+    },
+    {
+      "id": "animejs_01",
+      "name": "Anime.js",
+      "url": "https://animejs.com",
+      "category": "Tools, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=animejs.com&sz=128",
+      "description": "Lightweight JavaScript animation library for web developers.",
+      "No_login": true,
+      "accent_color": "#ff6b6b"
+    },
+    {
+      "id": "stay_01",
+      "name": "Stay",
+      "url": "https://staying.fun",
+      "category": "Art & Design, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=staying.fun&sz=128",
+      "description": "Interactive data visualization tool for developers.",
+      "No_login": true,
+      "accent_color": "#4ecdc4"
+    },
+    {
+      "id": "stirling_pdf_01",
+      "name": "Stirling PDF",
+      "url": "https://stirlingpdf.com",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=stirlingpdf.com&sz=128",
+      "description": "Powerful self-hosted PDF editor with a wide range of tools.",
+      "No_login": true,
+      "accent_color": "#1565c0"
+    },
+    {
+      "id": "reactbits_01",
+      "name": "Reactbits",
+      "url": "https://reactbits.dev",
+      "category": "Tools, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=reactbits.dev&sz=128",
+      "description": "Collection of animated React components for modern UIs.",
+      "No_login": true,
+      "accent_color": "#61dafb"
+    },
+    {
+      "id": "pngimg_01",
+      "name": "PngImg",
+      "url": "https://pngimg.com",
+      "category": "Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=pngimg.com&sz=128",
+      "description": "Large library of free PNG images with transparent backgrounds.",
+      "No_login": true,
+      "accent_color": "#ff9800"
+    },
+    {
+      "id": "instructables_01",
+      "name": "Instructables",
+      "url": "https://instructables.com",
+      "category": "House & Home, Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=instructables.com&sz=128",
+      "description": "Community platform for DIY projects, crafts, and how-to guides.",
+      "No_login": true,
+      "accent_color": "#f5a623"
+    },
+    {
+      "id": "topoexport_01",
+      "name": "TopoExport",
+      "url": "https://topoexport.com",
+      "category": "Maps & Navigation, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=topoexport.com&sz=128",
+      "description": "Export topographic maps as 3D models for design and printing.",
+      "No_login": true,
+      "accent_color": "#6d9e6a"
+    },
+    {
+      "id": "lingohut_01",
+      "name": "LingoHut",
+      "url": "https://lingohut.com",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=lingohut.com&sz=128",
+      "description": "Free platform for learning vocabulary in dozens of languages.",
+      "No_login": true,
+      "accent_color": "#ff7043"
+    },
+    {
+      "id": "snazzy_maps_01",
+      "name": "Snazzy Maps",
+      "url": "https://snazzymaps.com",
+      "category": "Maps & Navigation, Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=snazzymaps.com&sz=128",
+      "description": "Custom Google Maps styles for designers and developers.",
+      "No_login": true,
+      "accent_color": "#26a69a"
+    },
+    {
+      "id": "emergent_01",
+      "name": "Emergent",
+      "url": "https://emergent.sh",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=emergent.sh&sz=128",
+      "description": "AI-powered development assistant for building apps faster.",
+      "No_login": true,
+      "accent_color": "#7c4dff"
+    },
+    {
+      "id": "kiddo_worksheets_01",
+      "name": "Kiddo Worksheets",
+      "url": "https://kiddoworksheets.com",
+      "category": "Education, Parenting",
+      "icon_url": "https://www.google.com/s2/favicons?domain=kiddoworksheets.com&sz=128",
+      "description": "Printable educational worksheets for kids of all ages.",
+      "No_login": true,
+      "accent_color": "#ffca28"
+    },
+    {
+      "id": "hugging_face_01",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co",
+      "category": "Education, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+      "description": "The leading platform for open-source AI models and datasets.",
+      "No_login": true,
+      "accent_color": "#ff9d00"
+    },
+    {
+      "id": "magic_eraser_01",
+      "name": "Magic Eraser",
+      "url": "https://magiceraser.pro",
+      "category": "Photography, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=magiceraser.pro&sz=128",
+      "description": "Instantly remove unwanted objects from photos with AI.",
+      "No_login": true,
+      "accent_color": "#ab47bc"
+    },
+    {
+      "id": "3d_tuning_01",
+      "name": "3D Tuning",
+      "url": "https://www.3dtuning.com/en-US/",
+      "category": "Auto & Vehicles, Simulation",
+      "icon_url": "https://www.google.com/s2/favicons?domain=3dtuning.com&sz=128",
+      "description": "Customize and visualize cars in stunning 3D.",
+      "No_login": true,
+      "accent_color": "#ef5350"
+    },
+    {
+      "id": "stockimg_ai_01",
+      "name": "StockIMG AI",
+      "url": "https://stockimg.ai",
+      "category": "Art & Design, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=stockimg.ai&sz=128",
+      "description": "AI image generator for stock photos, logos, and more.",
+      "No_login": false,
+      "accent_color": "#5c6bc0"
+    },
+    {
+      "id": "symbolab_01",
+      "name": "Symbolab",
+      "url": "https://symbolab.com",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=symbolab.com&sz=128",
+      "description": "Advanced math solver and step-by-step calculator for students.",
+      "No_login": true,
+      "accent_color": "#e53935"
+    },
+    {
+      "id": "radiocast_01",
+      "name": "Radiocast",
+      "url": "https://radiocast.co",
+      "category": "Music & Audio, Entertainment",
+      "icon_url": "https://www.google.com/s2/favicons?domain=radiocast.co&sz=128",
+      "description": "Explore and stream radio stations from around the world.",
+      "No_login": true,
+      "accent_color": "#00acc1"
+    },
+    {
+      "id": "flourish_01",
+      "name": "Flourish",
+      "url": "https://flourish.studio",
+      "category": "Productivity, Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=flourish.studio&sz=128",
+      "description": "Create beautiful interactive charts and data stories online.",
+      "No_login": false,
+      "accent_color": "#00897b"
+    },
+    {
+      "id": "language_google_01",
+      "name": "Language (Google)",
+      "url": "https://labs.google/lll/en",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=labs.google&sz=128",
+      "description": "Google Labs language learning experiments and tools.",
+      "No_login": true,
+      "accent_color": "#4285f4"
+    },
+    {
+      "id": "meshy_01",
+      "name": "Meshy",
+      "url": "https://meshy.ai",
+      "category": "Art & Design, Simulation",
+      "icon_url": "https://www.google.com/s2/favicons?domain=meshy.ai&sz=128",
+      "description": "AI-powered tool for generating 3D models from text or images.",
+      "No_login": false,
+      "accent_color": "#7e57c2"
+    },
+    {
+      "id": "my_fridge_food_01",
+      "name": "My Fridge Food",
+      "url": "https://myfridgefood.com",
+      "category": "Food & Drink, Lifestyle",
+      "icon_url": "https://www.google.com/s2/favicons?domain=myfridgefood.com&sz=128",
+      "description": "Find recipes based on ingredients you already have at home.",
+      "No_login": true,
+      "accent_color": "#66bb6a"
+    },
+    {
+      "id": "readdy_01",
+      "name": "Readdy",
+      "url": "https://readdy.ai",
+      "category": "Tools, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=readdy.ai&sz=128",
+      "description": "AI app builder that turns ideas into functional applications.",
+      "No_login": false,
+      "accent_color": "#29b6f6"
+    },
+    {
+      "id": "recraft_01",
+      "name": "Recraft",
+      "url": "https://recraft.ai",
+      "category": "Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=recraft.ai&sz=128",
+      "description": "AI design tool for generating mockups, icons, and illustrations.",
+      "No_login": false,
+      "accent_color": "#f06292"
+    },
+    {
+      "id": "mult_01",
+      "name": "Mult",
+      "url": "https://mult.dev",
+      "category": "Video Players & Editors, Maps & Navigation",
+      "icon_url": "https://www.google.com/s2/favicons?domain=mult.dev&sz=128",
+      "description": "Create animated travel and motion graphics for the web.",
+      "No_login": true,
+      "accent_color": "#ffa726"
+    },
+    {
+      "id": "manual_lib_01",
+      "name": "ManualsLib",
+      "url": "https://manualslib.com",
+      "category": "Books & Reference",
+      "icon_url": "https://www.google.com/s2/favicons?domain=manualslib.com&sz=128",
+      "description": "Largest online library of product manuals and user guides.",
+      "No_login": true,
+      "accent_color": "#78909c"
+    },
+    {
+      "id": "olmocr_01",
+      "name": "olmOCR",
+      "url": "https://olmocr.allenai.org",
+      "category": "Tools, Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=olmocr.allenai.org&sz=128",
+      "description": "AI-powered OCR tool to extract text from PDFs accurately.",
+      "No_login": true,
+      "accent_color": "#0288d1"
+    },
+    {
+      "id": "autodraw_01",
+      "name": "AutoDraw",
+      "url": "https://autodraw.com",
+      "category": "Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=autodraw.com&sz=128",
+      "description": "Google's AI drawing tool that turns rough sketches into clean art.",
+      "No_login": true,
+      "accent_color": "#ffee58"
+    },
+    {
+      "id": "remove_photos_01",
+      "name": "Remove Photos",
+      "url": "https://remove.photos",
+      "category": "Photography, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=remove.photos&sz=128",
+      "description": "Automatically remove image backgrounds in seconds.",
+      "No_login": true,
+      "accent_color": "#ec407a"
+    },
+    {
+      "id": "abacus_ai_01",
+      "name": "Abacus AI",
+      "url": "https://deepagent.abacus.ai",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=abacus.ai&sz=128",
+      "description": "Deep AI agent platform for automating complex development tasks.",
+      "No_login": false,
+      "accent_color": "#3949ab"
+    },
+    {
+      "id": "colorify_ai_01",
+      "name": "Colorify AI",
+      "url": "https://colorifyai.art",
+      "category": "Art & Design, Entertainment",
+      "icon_url": "https://www.google.com/s2/favicons?domain=colorifyai.art&sz=128",
+      "description": "AI-powered tool to colorize and bring life to coloring pages.",
+      "No_login": true,
+      "accent_color": "#ff7043"
+    },
+    {
+      "id": "app_alchemy_01",
+      "name": "App Alchemy",
+      "url": "https://appalchemy.ai",
+      "category": "Art & Design, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=appalchemy.ai&sz=128",
+      "description": "Generate UI designs and app prototypes with AI.",
+      "No_login": false,
+      "accent_color": "#8d6e63"
+    },
+    {
+      "id": "codedex_01",
+      "name": "Codedex",
+      "url": "https://codedex.io",
+      "category": "Education, Role Playing",
+      "icon_url": "https://www.google.com/s2/favicons?domain=codedex.io&sz=128",
+      "description": "Learn to code through fun, game-like interactive challenges.",
+      "No_login": false,
+      "accent_color": "#f9a825"
+    },
+    {
+      "id": "keybr_01",
+      "name": "Keybr",
+      "url": "https://keybr.com",
+      "category": "Education, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=keybr.com&sz=128",
+      "description": "Improve touch typing speed with smart adaptive lessons.",
+      "No_login": true,
+      "accent_color": "#5c6bc0"
+    },
+    {
+      "id": "human_benchmark_01",
+      "name": "Human Benchmark",
+      "url": "https://humanbenchmark.com",
+      "category": "Entertainment, Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=humanbenchmark.com&sz=128",
+      "description": "Test your reaction time, memory, and other cognitive abilities.",
+      "No_login": true,
+      "accent_color": "#00bcd4"
+    },
+    {
+      "id": "imagine_explainers_01",
+      "name": "Imagine Explainers",
+      "url": "https://imagineexplainers.com",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=imagineexplainers.com&sz=128",
+      "description": "AI-generated visual explainers that make complex topics simple.",
+      "No_login": true,
+      "accent_color": "#ff8a65"
+    },
+    {
+      "id": "formia_01",
+      "name": "Formia",
+      "url": "https://formia.so",
+      "category": "Art & Design, Simulation",
+      "icon_url": "https://www.google.com/s2/favicons?domain=formia.so&sz=128",
+      "description": "Generate 3D forms and structures using AI-driven tools.",
+      "No_login": true,
+      "accent_color": "#26c6da"
+    },
+    {
+      "id": "gamma_01",
+      "name": "Gamma",
+      "url": "https://gamma.app",
+      "category": "Productivity, Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128",
+      "description": "AI-powered tool to create stunning presentations and documents.",
+      "No_login": false,
+      "accent_color": "#7c3aed"
+    },
+    {
+      "id": "virtual_vacation_01",
+      "name": "Virtual Vacation",
+      "url": "https://virtualvacation.us",
+      "category": "Travel & Local, Entertainment",
+      "icon_url": "https://www.google.com/s2/favicons?domain=virtualvacation.us&sz=128",
+      "description": "Take a virtual tour of destinations around the world from your browser.",
+      "No_login": true,
+      "accent_color": "#29b6f6"
+    },
+    {
+      "id": "10015_01",
+      "name": "10015",
+      "url": "https://10015.io",
+      "category": "Tools, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=10015.io&sz=128",
+      "description": "All-in-one toolbox with 100+ free online developer tools.",
+      "No_login": true,
+      "accent_color": "#546e7a"
+    },
+    {
+      "id": "data_button_01",
+      "name": "Data Button",
+      "url": "https://databutton.com",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=databutton.com&sz=128",
+      "description": "Build and deploy AI-powered data apps without writing backend code.",
+      "No_login": false,
+      "accent_color": "#1976d2"
+    },
+    {
+      "id": "production_crate_01",
+      "name": "Production Crate",
+      "url": "https://productioncrate.com",
+      "category": "Video Players & Editors, Entertainment",
+      "icon_url": "https://www.google.com/s2/favicons?domain=productioncrate.com&sz=128",
+      "description": "Library of free VFX assets, sound effects, and motion graphics.",
+      "No_login": false,
+      "accent_color": "#d32f2f"
+    },
+    {
+      "id": "immersity_ai_01",
+      "name": "Immersity AI",
+      "url": "https://immersity.ai",
+      "category": "Photography, Entertainment",
+      "icon_url": "https://www.google.com/s2/favicons?domain=immersity.ai&sz=128",
+      "description": "Convert 2D images into immersive 3D experiences with AI.",
+      "No_login": false,
+      "accent_color": "#0097a7"
+    },
+    {
+      "id": "tooooools_01",
+      "name": "Tooooools",
+      "url": "https://tooooools.app",
+      "category": "Tools, Art & Design",
+      "icon_url": "https://tooooools.app/favicon.ico",
+      "description": "A curated collection of micro-tools for designers and developers to streamline creative workflows.",
+      "No_login": true,
+      "accent_color": "#000000"
+    },
+    {
+      "id": "wolfram_alpha_01",
+      "name": "Wolfram Alpha",
+      "url": "https://wolframalpha.com",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=wolframalpha.com&sz=128",
+      "description": "Computational knowledge engine for math, science, and data.",
+      "No_login": true,
+      "accent_color": "#e53935"
+    },
+    {
+      "id": "typing_club_01",
+      "name": "Typing Club",
+      "url": "https://typingclub.com",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=typingclub.com&sz=128",
+      "description": "Learn touch typing through structured, interactive lessons.",
+      "No_login": true,
+      "accent_color": "#43a047"
+    },
+    {
+      "id": "notta_01",
+      "name": "Notta",
+      "url": "https://notta.ai",
+      "category": "Tools, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=notta.ai&sz=128",
+      "description": "AI transcription tool to convert audio and video to text instantly.",
+      "No_login": false,
+      "accent_color": "#1e88e5"
+    },
+    {
+      "id": "table_topy_01",
+      "name": "Table Topy",
+      "url": "https://tabletopy.com",
+      "category": "Entertainment, Strategy",
+      "icon_url": "https://www.google.com/s2/favicons?domain=tabletopy.com&sz=128",
+      "description": "Visual effects and asset library for tabletop RPG enthusiasts.",
+      "No_login": true,
+      "accent_color": "#6d4c41"
+    },
+    {
+      "id": "solvely_01",
+      "name": "Solvely",
+      "url": "https://solvely.ai",
+      "category": "Education",
+      "icon_url": "https://www.google.com/s2/favicons?domain=solvely.ai&sz=128",
+      "description": "AI homework helper that solves problems step by step.",
+      "No_login": false,
+      "accent_color": "#00897b"
+    },
+    {
+      "id": "wonder_share_01",
+      "name": "Wonder Share",
+      "url": "https://pdf.wondershare.com",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=pdf.wondershare.com&sz=128",
+      "description": "Feature-rich PDF editor for viewing, editing, and converting files.",
+      "No_login": false,
+      "accent_color": "#e91e63"
+    },
+    {
+      "id": "bolt_01",
+      "name": "Bolt",
+      "url": "https://bolt.new",
+      "category": "Tools, Productivity",
+      "icon_url": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128",
+      "description": "AI-powered tool to generate and deploy full-stack web apps instantly.",
+      "No_login": false,
+      "accent_color": "#6200ea"
+    },
+    {
+      "id": "replit_01",
+      "name": "Replit",
+      "url": "https://replit.com",
+      "category": "Tools, Education",
+      "icon_url": "https://replit.com/favicon.ico",
+      "description": "A collaborative cloud IDE that allows users to write, run, and host code for projects instantly.",
+      "No_login": false,
+      "accent_color": "#f26b1d"
+    },
+    {
+      "id": "edraw_max_01",
+      "name": "Edraw Max",
+      "url": "https://edrawmax.wondershare.com",
+      "category": "Productivity, Art & Design",
+      "icon_url": "https://www.google.com/s2/favicons?domain=edrawmax.wondershare.com&sz=128",
+      "description": "All-in-one diagramming tool for flowcharts, mind maps, and more.",
+      "No_login": false,
+      "accent_color": "#039be5"
+    },
+    {
+      "id": "azgaar_01",
+      "name": "Azgaar",
+      "url": "https://azgaar.github.io",
+      "category": "Entertainment, Simulation",
+      "icon_url": "https://www.google.com/s2/favicons?domain=azgaar.github.io&sz=128",
+      "description": "Fantasy map generator for worldbuilders and tabletop RPG creators.",
+      "No_login": true,
+      "accent_color": "#558b2f"
+    },
+    {
+      "id": "silo_team_01",
+      "name": "Silo Team",
+      "url": "https://silo.team",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=silo.team&sz=128",
+      "description": "Visual planning tool for teams to manage projects and workflows.",
+      "No_login": false,
+      "accent_color": "#546e7a"
+    },
+    {
+      "id": "fake_update_01",
+      "name": "Fake Update",
+      "url": "https://fakeupdate.net",
+      "category": "Entertainment, Casual",
+      "icon_url": "https://www.google.com/s2/favicons?domain=fakeupdate.net&sz=128",
+      "description": "Prank your friends with a realistic fake OS update screen.",
+      "No_login": true,
+      "accent_color": "#455a64"
+    },
+    {
+      "id": "slowroads_01",
+      "name": "Slow Roads",
+      "url": "https://slowroads.io",
+      "category": "Racing, Simulation",
+      "icon_url": "https://slowroads.io/favicon.ico",
+      "description": "A procedural, infinite driving game designed for relaxation and scenic exploration in the browser.",
+      "No_login": true,
+      "accent_color": "#2ecc71"
+    },
+    {
+      "id": "novoresume_01",
+      "name": "Novoresume",
+      "url": "https://novoresume.com",
+      "category": "Productivity, Tools",
+      "icon_url": "https://www.google.com/s2/favicons?domain=novoresume.com&sz=128",
+      "description": "AI-powered resume builder to create professional CVs in minutes.",
+      "No_login": false,
+      "accent_color": "#1565c0"
+    },
+    {
+      "id": "buildcores_01",
+      "name": "BuildCores",
+      "url": "https://www.buildcores.com",
+      "category": "Tools, Simulation",
+      "icon_url": "https://www.buildcores.com/favicon.ico",
+      "description": "A PC part picker and builder featuring a component database and interactive 3D PC building simulator.",
+      "No_login": true,
+      "accent_color": "#1a73e8"
+    },
+    {
+      "id": "cityweft_01",
+      "name": "Cityweft",
+      "url": "https://app.cityweft.com",
+      "category": "Maps & Navigation, Productivity",
+      "icon_url": "https://app.cityweft.com/favicon.ico",
+      "description": "Cloud-based 3D city data platform for urban planning, providing precise building and terrain models.",
+      "No_login": false,
+      "accent_color": "#2d3436"
+    },
+    {
+      "id": "tinkercad_01",
+      "name": "Tinkercad",
+      "url": "https://www.tinkercad.com",
+      "category": "Education, Art & Design",
+      "icon_url": "https://www.tinkercad.com/favicon.ico",
+      "description": "Autodesk's web app for 3D design, electronics simulation, and block-based coding.",
+      "No_login": false,
+      "accent_color": "#00a8e1"
+    },
+    {
+      "id": "ifixit_01",
+      "name": "iFixit",
+      "url": "https://www.ifixit.com",
+      "category": "House & Home, Books & Reference",
+      "icon_url": "https://www.ifixit.com/favicon.ico",
+      "description": "The community-driven repair manual for everything, providing step-by-step guides for fixing electronics.",
+      "No_login": true,
+      "accent_color": "#0071ce"
+    },
+    {
+      "id": "ptable_01",
+      "name": "Ptable",
+      "url": "https://ptable.com",
+      "category": "Education, Books & Reference",
+      "icon_url": "https://ptable.com/favicon.ico",
+      "description": "An interactive, fully responsive periodic table with real-time property visualization and orbital data.",
+      "No_login": true,
+      "accent_color": "#f1c40f"
+    },
+    {
+      "id": "supercook_01",
+      "name": "SuperCook",
+      "url": "https://www.supercook.com",
+      "category": "Food & Drink, Lifestyle",
+      "icon_url": "https://www.supercook.com/favicon.ico",
+      "description": "A smart recipe search engine that generates meal ideas based on the ingredients you have at home.",
+      "No_login": true,
+      "accent_color": "#27ae60"
+    },
+    {
+      "id": "airconsole_01",
+      "name": "AirConsole",
+      "url": "https://www.airconsole.com",
+      "category": "Entertainment, Casual",
+      "icon_url": "https://www.airconsole.com/favicon.ico",
+      "description": "A local multiplayer console that uses your browser as the screen and smartphones as gamepads.",
+      "No_login": true,
+      "accent_color": "#ffcd00"
+    },
+    {
+      "id": "animagraffs_01",
+      "name": "Animagraffs",
+      "url": "https://animagraffs.com",
+      "category": "Education, Entertainment",
+      "icon_url": "https://animagraffs.com/favicon.ico",
+      "description": "Highly detailed 3D animated infographics explaining how complex machines and systems work.",
+      "No_login": true,
+      "accent_color": "#e67e22"
+    },
+    {
+      "id": "cadxstudio_01",
+      "name": "CadXStudio",
+      "url": "https://cadxstudio.in",
+      "category": "Productivity, Art & Design",
+      "icon_url": "https://cadxstudio.in/favicon.ico",
+      "description": "AI-powered CAD and CAM platform for generating 3D models and G-code via natural language.",
+      "No_login": false,
+      "accent_color": "#3498db"
+    },
+    {
+      "id": "shademap_01",
+      "name": "ShadeMap",
+      "url": "https://shademap.app",
+      "category": "Maps & Navigation, Weather",
+      "icon_url": "https://shademap.app/favicon.ico",
+      "description": "A global map that simulates shadows in real-time based on the sun's position and building heights.",
+      "No_login": true,
+      "accent_color": "#2c3e50"
+    },
+    {
+      "id": "floor796_01",
+      "name": "Floor796",
+      "url": "https://floor796.com",
+      "category": "Entertainment, Art & Design",
+      "icon_url": "https://floor796.com/favicon.ico",
+      "description": "An ever-expanding collaborative animation project depicting life on a massive space station floor.",
+      "No_login": true,
+      "accent_color": "#8e44ad"
+    },
+    {
+      "id": "stellanova_01",
+      "name": "Stella Nova",
+      "url": "https://davesgames.io/stella-nova/",
+      "category": "Simulation, Strategy",
+      "icon_url": "https://davesgames.io/apple-touch-icon.png",
+      "description": "A web-based space station builder and colony management simulator with deep citizen AI and orbital mechanics.",
+      "No_login": true,
+      "accent_color": "#1e272e"
+    },
+    {
+      "id": "zperiod_01",
+      "name": "zPeriod",
+      "url": "https://zperiod.app",
+      "category": "Education, Tools",
+      "icon_url": "https://zperiod.app/favicon.ico",
+      "description": "An interactive, minimalist periodic table for exploring element properties and chemical trends.",
+      "No_login": true,
+      "accent_color": "#ff4757"
+    },
+    {
+      "id": "designcode_svg_01",
+      "name": "DesignCode SVG",
+      "url": "https://svg.designcode.io",
+      "category": "Art & Design, Productivity",
+      "icon_url": "https://designcode.io/favicon.ico",
+      "description": "An interactive playground for generating and editing SVG code for UI design and animations.",
+      "No_login": true,
+      "accent_color": "#4731d3"
+    },
+    {
+      "id": "paperanimator_01",
+      "name": "Paper Animator",
+      "url": "https://paperanimator.com",
+      "category": "Art & Design, Entertainment",
+      "icon_url": "https://paperanimator.com/favicon.ico",
+      "description": "A creative tool for building stop-motion style digital animations with a paper-craft aesthetic.",
+      "No_login": true,
+      "accent_color": "#fab1a0"
+    },
+    {
+      "id": "rayon_01",
+      "name": "Rayon Maps",
+      "url": "https://maps.rayon.design",
+      "category": "Productivity, Maps & Navigation",
+      "icon_url": "https://rayon.design/favicon.ico",
+      "description": "A collaborative architectural space planning tool for creating floor plans and technical drawings.",
+      "No_login": false,
+      "accent_color": "#0984e3"
+    },
+    {
+      "id": "mapit_01",
+      "name": "MapIt",
+      "url": "https://mapitapp.cc",
+      "category": "Productivity, Tools",
+      "icon_url": "https://mapitapp.cc/favicon.ico",
+      "description": "A spatial canvas tool for mind mapping, project flow organization, and visual thinking.",
+      "No_login": false,
+      "accent_color": "#6c5ce7"
+    },
+    {
+      "id": "sweezy_01",
+      "name": "Sweezy Cursors",
+      "url": "https://sweezy-cursors.com",
+      "category": "Personalization, Entertainment",
+      "icon_url": "https://sweezy-cursors.com/favicon.ico",
+      "description": "A huge library of custom, animated mouse cursors for Chrome and other browsers.",
+      "No_login": true,
+      "accent_color": "#e84393"
+    },
+    {
+      "id": "storytribe_01",
+      "name": "Storytribe",
+      "url": "https://storytribeapp.com",
+      "category": "Art & Design, Social",
+      "icon_url": "https://storytribeapp.com/favicon.ico",
+      "description": "A visual storyboard creator for non-artists to communicate ideas and narratives effectively.",
+      "No_login": false,
+      "accent_color": "#fdcb6e"
+    },
+    {
+      "id": "runable_01",
+      "name": "Runable",
+      "url": "https://runable.com",
+      "category": "Tools, Education",
+      "icon_url": "https://runable.com/favicon.ico",
+      "description": "A cloud-based sandbox platform for running and sharing code snippets in real-time.",
+      "No_login": false,
+      "accent_color": "#34495e"
+    },
+    {
+      "id": "sakugabooru_01",
+      "name": "Sakugabooru",
+      "url": "https://sakugabooru.com",
+      "category": "Entertainment, Art & Design",
+      "icon_url": "https://www.sakugabooru.com/favicon.ico",
+      "description": "An imageboard community dedicated to archiving and discussing high-quality animation clips (Sakuga).",
+      "No_login": true,
+      "accent_color": "#3366ff"
+    },
+    {
+      "id": "swishy_ai_01",
+      "name": "Swishy AI",
+      "url": "https://swishy.ai",
+      "category": "Art & Design, Entertainment",
+      "icon_url": "https://swishy.ai/favicon.ico",
+      "description": "AI-powered platform for generating and editing short-form video content and animations.",
+      "No_login": false,
+      "accent_color": "#e056fd"
+    },
+    {
+      "id": "blueprint_am_01",
+      "name": "Blueprint",
+      "url": "https://blueprint.am",
+      "category": "Productivity, Art & Design",
+      "icon_url": "https://blueprint.am/favicon.ico",
+      "description": "A visualization tool for architectural blueprints and engineering diagrams.",
+      "No_login": true,
+      "accent_color": "#2980b9"
+    },
+    {
+      "id": "napkin_ai_01",
+      "name": "Napkin AI",
+      "url": "https://napkin.ai",
+      "category": "Productivity, Art & Design",
+      "icon_url": "https://napkin.ai/favicon.ico",
+      "description": "Generates visual diagrams and infographics from text descriptions for documentation and slides.",
+      "No_login": false,
+      "accent_color": "#1abc9c"
+    },
+    {
+      "id": "terraink_01",
+      "name": "Terraink",
+      "url": "https://terraink.app",
+      "category": "Art & Design, Simulation",
+      "icon_url": "https://terraink.app/favicon.ico",
+      "description": "A 3D terrain and landscape generator for game developers and environment artists.",
+      "No_login": true,
+      "accent_color": "#27ae60"
+    },
+    {
+      "id": "higgsfield_01",
+      "name": "Higgsfield AI",
+      "url": "https://higgsfield.ai",
+      "category": "Entertainment, Video Players & Editors",
+      "icon_url": "https://higgsfield.ai/favicon.ico",
+      "description": "A generative AI video platform focused on high-fidelity human motion and character consistency.",
+      "No_login": false,
+      "accent_color": "#111111"
+    },
+    {
+      "id": "papermau_01",
+      "name": "Papermau",
+      "url": "https://papermau.blogspot.com",
+      "category": "Education, Lifestyle",
+      "icon_url": "https://www.blogger.com/favicon.ico",
+      "description": "A massive repository of free paper model templates for hobbyists and collectors.",
+      "No_login": true,
+      "accent_color": "#ff5722"
+    },
+    {
+      "id": "tailornova_01",
+      "name": "Tailornova",
+      "url": "https://tailornova.com",
+      "category": "Art & Design, Lifestyle",
+      "icon_url": "https://tailornova.com/favicon.ico",
+      "description": "A 3D fashion design software for creating custom sewing patterns and apparel fits.",
+      "No_login": false,
+      "accent_color": "#eb4d4b"
+    },
+    {
+      "id": "adam_new_01",
+      "name": "Adam.new",
+      "url": "https://adam.new",
+      "category": "Productivity, Personalization",
+      "icon_url": "https://adam.new/favicon.ico",
+      "description": "A professional portfolio and personal landing page builder for creators and developers.",
+      "No_login": false,
+      "accent_color": "#000000"
+    },
+    {
+      "id": "text_repeater_01",
+      "name": "Text Repeater",
+      "url": "https://textrepeater.com",
+      "category": "Tools, Communication",
+      "icon_url": "https://textrepeater.com/favicon.ico",
+      "description": "A utility for repeating text blocks, generating bulk text, and manipulating strings.",
+      "No_login": true,
+      "accent_color": "#f1c40f"
+    },
+    {
+      "id": "city_roads_01",
+      "name": "City Roads",
+      "url": "https://anvaka.github.io/city-roads/",
+      "category": "Art & Design, Maps & Navigation",
+      "icon_url": "https://anvaka.github.io/city-roads/favicon.ico",
+      "description": "Visualizes all the roads within a city as minimalist, high-quality vector art.",
+      "No_login": true,
+      "accent_color": "#111111"
+    },
+    {
+      "id": "sketchfab_01",
+      "name": "Sketchfab",
+      "url": "https://sketchfab.com",
+      "category": "Art & Design, Entertainment",
+      "icon_url": "https://sketchfab.com/favicon.ico",
+      "description": "The largest platform for publishing, sharing, and discovering interactive 3D models and AR content.",
+      "No_login": true,
+      "accent_color": "#1caad9"
+    },
+    {
+      "id": "javalab_01",
+      "name": "Javalab",
+      "url": "https://javalab.org",
+      "category": "Education, Simulation",
+      "icon_url": "https://javalab.org/favicon.ico",
+      "description": "A collection of interactive online science and physics simulations and virtual labs.",
+      "No_login": true,
+      "accent_color": "#2980b9"
+    },
+    {
+      "id": "coddy_tech_01",
+      "name": "Coddy",
+      "url": "https://coddy.tech",
+      "category": "Education, Tools",
+      "icon_url": "https://coddy.tech/favicon.ico",
+      "description": "A practice-driven coding platform with hands-on challenges and AI-assisted learning.",
+      "No_login": false,
+      "accent_color": "#6c5ce7"
+    },
+    {
+      "id": "vvd_world_01",
+      "name": "VVD World",
+      "url": "https://vvd.world",
+      "category": "Art & Design, Simulation",
+      "icon_url": "https://vvd.world/favicon.ico",
+      "description": "A virtual reality and interactive 3D world platform for showcasing architectural and digital environments.",
+      "No_login": true,
+      "accent_color": "#7d5fff"
+    },
+    {
+      "id": "freesewing_01",
+      "name": "FreeSewing",
+      "url": "https://freesewing.eu",
+      "category": "Lifestyle, Art & Design",
+      "icon_url": "https://freesewing.eu/favicon.ico",
+      "description": "An open-source platform providing custom-fit sewing patterns for users worldwide.",
+      "No_login": true,
+      "accent_color": "#212121"
+    },
+    {
+      "id": "logolab_3d_01",
+      "name": "3DLogoLab",
+      "url": "https://3dlogo.io",
+      "category": "Art & Design, Tools",
+      "icon_url": "https://3dlogo.io/favicon.ico",
+      "description": "A 3D logo generator that transforms flat images into textured and animated 3D geometries.",
+      "No_login": true,
+      "accent_color": "#00d2ff"
+    },
+    {
+      "id": "nobook_chem_01",
+      "name": "NB Chemistry",
+      "url": "https://chemistry-en.nobook.com",
+      "category": "Education, Simulation",
+      "icon_url": "https://nobook.com/favicon.ico",
+      "description": "A professional-grade virtual chemistry laboratory for performing experiments safely in 3D.",
+      "No_login": false,
+      "accent_color": "#3c6382"
+    },
+    {
+      "id": "emojicombos_01",
+      "name": "EmojiCombos",
+      "url": "https://emojicombos.com",
+      "category": "Communication, Personalization",
+      "icon_url": "https://emojicombos.com/favicon.ico",
+      "description": "A database of aesthetic emoji combinations and kaomoji for social media and profiles.",
+      "No_login": true,
+      "accent_color": "#fffa65"
+    },
+    {
+      "id": "hst_bday_01",
+      "name": "NASA Hubble B-Day",
+      "url": "https://imagine.gsfc.nasa.gov/hst_bday/",
+      "category": "Education, Entertainment",
+      "icon_url": "https://imagine.gsfc.nasa.gov/favicon.ico",
+      "description": "A NASA tool that shows you the cosmic image Hubble captured on your specific birthday.",
+      "No_login": true,
+      "accent_color": "#0b3d91"
+    },
+    {
+      "id": "wokwi_01",
+      "name": "Wokwi",
+      "url": "https://wokwi.com",
+      "category": "Education, Simulation",
+      "icon_url": "https://wokwi.com/favicon.ico",
+      "description": "An online electronics simulator for Arduino, ESP32, and STM32, ideal for learning circuits.",
+      "No_login": true,
+      "accent_color": "#2d3436"
+    },
+    {
+      "id": "electude_sim_01",
+      "name": "Electude Simulator",
+      "url": "https://simulator.electude.com/simulator",
+      "category": "Education, Simulation",
+      "icon_url": "https://electude.com/favicon.ico",
+      "description": "An advanced automotive technician training simulator for engine diagnostics and repair.",
+      "No_login": false,
+      "accent_color": "#d63031"
+    },
+    {
+      "id": "unicorn_studio_01",
+      "name": "Unicorn Studio",
+      "url": "https://unicorn.studio",
+      "category": "Art & Design, Tools",
+      "icon_url": "https://unicorn.studio/favicon.ico",
+      "description": "A tool for adding high-end WebGL effects and animations to websites without complex code.",
+      "No_login": false,
+      "accent_color": "#f368e0"
+    },
+    {
+      "id": "skill_lync_01",
+      "name": "Skill-Lync",
+      "url": "https://resources.skill-lync.com",
+      "category": "Education, Productivity",
+      "icon_url": "https://skill-lync.com/favicon.ico",
+      "description": "An engineering-focused learning platform offering industry-specific courses in CAD, CAE, and CFD.",
+      "No_login": false,
+      "accent_color": "#2c3e50"
+    },
+    {
+      "id": "photogradient_01",
+      "name": "PhotoGradient",
+      "url": "https://photogradient.com",
+      "category": "Art & Design, Photography",
+      "icon_url": "https://photogradient.com/favicon.ico",
+      "description": "A design tool for generating and applying smooth mesh gradients to photos and backgrounds.",
+      "No_login": true,
+      "accent_color": "#00d2d3"
+    },
+    {
+      "id": "perlerbeads_01",
+      "name": "PerlerBeads",
+      "url": "https://perlerbeads.net",
+      "category": "Art & Design, Lifestyle",
+      "icon_url": "https://perlerbeads.net/favicon.ico",
+      "description": "A pattern maker and community resource for creating fuse bead art designs.",
+      "No_login": true,
+      "accent_color": "#ff9f43"
+    },
+    {
+      "id": "withdiode_01",
+      "name": "Diode",
+      "url": "https://withdiode.com",
+      "category": "Tools, Productivity",
+      "icon_url": "https://withdiode.com/favicon.ico",
+      "description": "A secure, decentralized collaboration platform for team communication and file sharing.",
+      "No_login": false,
+      "accent_color": "#5f27cd"
+    },
+    {
+      "id": "mapgenie_01",
+      "name": "MapGenie",
+      "url": "https://mapgenie.io",
+      "category": "Entertainment, Tools",
+      "icon_url": "https://mapgenie.io/favicon.ico",
+      "description": "A library of highly detailed interactive maps for popular open-world video games.",
+      "No_login": true,
+      "accent_color": "#222f3e"
+    },
+    {
+      "id": "arcadium3d_01",
+      "name": "Arcadium 3D",
+      "url": "https://arcadium3d.com",
+      "category": "Art & Design, House & Home",
+      "icon_url": "https://arcadium3d.com/favicon.ico",
+      "description": "A fast, AI-powered 3D home design tool for creating room layouts and visualizations.",
+      "No_login": true,
+      "accent_color": "#10ac84"
+    },
+    {
+      "id": "setteidreams_01",
+      "name": "Setteidreams",
+      "url": "https://setteidreams.net",
+      "category": "Entertainment, Art & Design",
+      "icon_url": "https://setteidreams.net/favicon.ico",
+      "description": "A specialized archive of anime production art (settei) and reference materials.",
+      "No_login": true,
+      "accent_color": "#ff6b6b"
+    },
+    {
+      "id": "bongocat_01",
+      "name": "Bongo Cat",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "category": "Entertainment, Casual",
+      "icon_url": "https://github.com/favicon.ico",
+      "description": "A fun, interactive web-based instrument featuring the famous Bongo Cat meme.",
+      "No_login": true,
+      "accent_color": "#000000"
+    },
+    {
+      "id": "worldmonitor_01",
+      "name": "World Monitor",
+      "url": "https://worldmonitor.app",
+      "category": "News & Magazines, Tools",
+      "icon_url": "https://worldmonitor.app/favicon.ico",
+      "description": "A real-time data dashboard tracking global events, infrastructure, and environmental metrics.",
+      "No_login": true,
+      "accent_color": "#2d3436"
+    },
+    {
+      "id": "autocatalog_01",
+      "name": "Auto Catalog Archive",
+      "url": "https://autocatalogarchive.com",
+      "category": "Books & Reference, Auto & Vehicles",
+      "icon_url": "https://autocatalogarchive.com/wp-content/uploads/2016/12/cropped-favicon-32x32.png",
+      "description": "A massive digital library of PDF brochures and technical specifications for cars throughout history.",
+      "No_login": true,
+      "accent_color": "#d63031"
+    },
+    {
+      "id": "f4map_01",
+      "name": "F4Map",
+      "url": "https://demo.f4map.com",
+      "category": "Maps & Navigation, Travel & Local",
+      "icon_url": "https://f4map.com/favicon.ico",
+      "description": "A powerful 3D web engine that renders OpenStreetMap data with real-time lighting, shadows, and weather.",
+      "No_login": true,
+      "accent_color": "#2c3e50"
+    },
+    {
+      "id": "3dlogolab_01",
+      "name": "3DLogoLab",
+      "url": "https://3dlogolab.io",
+      "category": "Art & Design, Tools",
+      "icon_url": "https://3dlogolab.io/favicon.ico",
+      "description": "A design tool that converts 2D logos into 3D animations and geometries for branding.",
+      "No_login": true,
+      "accent_color": "#00d2ff"
+    }
+  ]
 }
